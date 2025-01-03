@@ -40,7 +40,7 @@ export default function Experience()
                         position={ [ 0, 1.56, - 1.4 ] }
                         rotation-x={ - 0.256 }
                     >
-                        <iframe src="https://bruno-simon.com/html/" />
+                        <iframe src="https://etka.reative.de" />
                     </Html>
                 </primitive>
 
@@ -51,7 +51,7 @@ export default function Experience()
                     rotation-y={ - 1.25 }
                     maxWidth={ 2 }
                 >
-                    BRUNO SIMON
+                    Etka Öncüol
                 </Text>
             </Float>
         </PresentationControls>
